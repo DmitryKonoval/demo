@@ -1,2 +1,4 @@
-первая строка
-вторая строка
+first line
+second line
+third line
+end
